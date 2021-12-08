@@ -50,17 +50,3 @@ export class TasksComponent implements OnInit {
 }
 
 
-/*
-<div>
-    Task description: {{task.description}}
-</div>
-<div>
-    Task completed : {{task.completed}}
-</div>
-<div>
-    Task created at: {{task.created_at}}
-</div>
-<div>
-    Task updated at: {{task.created_at}}
-</div>
-*/
